@@ -43,7 +43,7 @@ chart.data(cleanedText, {
 
 // create and configure a color scale.
 var customColorScale = anychart.scales.linearColor();
-customColorScale.colors(colorSchemes["Default"]);
+customColorScale.colors(colorSchemes["Vibrant"]);
 
 // set the color scale as the color scale of the chart
 chart.colorScale(customColorScale);
