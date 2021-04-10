@@ -12,24 +12,29 @@ h1 {
 }
 
 h4 {
-  font-family: 'Poppins', sans-serif;
+
+font-family: 'Syncopate', sans-serif;
   font-weight: 900;
+  text-align: center;
 }
 
 .tool-header {
-  font-family: 'Poppins', sans-serif;
+ font-family: 'Syncopate', sans-serif;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 30px;
   margin-bottom: 0;
+  text-align:center;
 }
 
 .second-setting {
-  margin: 20px 0px 10px 0px;
+  margin: 40px 0px 10px 0px;
 }
 
 /* Body/Container Styles */
 body {
-  font-family: 'Poppins', sans-serif;
+  background-color:rgb(31, 211, 166);
+  font-family: 'Syncopate', sans-serif;
+  text-align:center;
 }
 
 #container {
