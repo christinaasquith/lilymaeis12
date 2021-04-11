@@ -37,7 +37,7 @@ var cleanedText = text.replace(/[^a-zA-Z ]/g, "").toLowerCase();
 var chart = anychart.tagCloud();
 chart.data(cleanedText, {
   mode: "byWord",
-  maxItems: 12,
+  maxItems: 50,
   ignoreItems: commonWords
 });
 
